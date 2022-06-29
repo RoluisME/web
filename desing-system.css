@@ -85,6 +85,7 @@ a{
     sans-serif;
 }
 img{
-    width: 450px;
-    height: 200px;
+    width: 850px;
+    height: 400px;
+    align-content: center;
 }
