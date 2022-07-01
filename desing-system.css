@@ -41,6 +41,25 @@ section#quemehaceunico{
     background-image: linear-gradient(-225deg, #FF057C 0%, #7C64D5 48%, #4CC3FF 100%);
 }
 
+section#personalidad{
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
+
+section#inteligenciasmutiples{
+    background-image: linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%);
+    }
+    section#misvirtudes{
+        background-image: linear-gradient(180deg, #2af598 0%, #009efd 100%);
+        }
+        section#metas{
+        background-image: linear-gradient(-225deg, #D4FFEC 0%, #57F2CC 48%, #4596FB 100%);
+        }
+        section#agradecimientos{
+        
+            background-image: linear-gradient(-225deg, #FF057C 0%, #7C64D5 48%, #4CC3FF 100%);
+        }
+
+
 .menu{
     position: fixed;
     top: 0;
